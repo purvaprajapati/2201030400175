@@ -1,0 +1,36 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 116.4rem;
+}.card-26-Mjm {
+  width: 100%;
+  height: 96.1rem;
+}
+.card-26-Mjm .card-26-Kgb {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  background-size: 99.938% 104.891%;
+  background-position: 0.0358rem 0;
+  background-image: url('../assets/card-26-bg.png');
+}
+.card-26-Mjm .card-26-Kgb .card-26-Kgb-bg {
+  width: 116.4rem;
+  height: 96.1rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:74a2226bf36aa001573362aacbc1b447839c29be');
+}
