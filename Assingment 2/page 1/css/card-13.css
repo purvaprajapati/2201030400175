@@ -1,0 +1,79 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.card-13-Nhd {
+  width: 100%;
+  height: 102.4rem;
+}
+.card-13-Nhd .desktop-1-7v7 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/desktop-1-bg-8Gw.png');
+}
+.card-13-Nhd .desktop-1-7v7 .rectangle-1-fgj {
+  width: 76.8rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 21.2rem;
+  top: 89.9rem;
+  background-color: #f57e10;
+}
+.card-13-Nhd .desktop-1-7v7 .rectangle-2-nmM {
+  width: 26.2rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 71rem;
+  top: 94.4rem;
+  background-color: #fdfafa;
+  border-radius: 10rem;
+}
+.card-13-Nhd .desktop-1-7v7 .join-now-get-get-our-monthly-free-wellness-kit-KFV {
+  width: 59.7rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 22.75rem;
+  top: 89.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.096rem;
+  font-style: italic;
+  color: #071a7d;
+  font-family: Inter, 'Source Sans Pro';
+}
+.card-13-Nhd .desktop-1-7v7 .join-now-aSK {
+  width: 14.6rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 77.75rem;
+  top: 94.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.096rem;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

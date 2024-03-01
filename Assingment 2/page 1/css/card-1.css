@@ -1,0 +1,118 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 154.5rem;
+}.card-1-D6o {
+  width: 100%;
+  height: 95.9rem;
+}
+.card-1-D6o .desktop-1-RyZ {
+  box-sizing: border-box;
+  padding: 0.9rem 1.9rem 7.4rem 1.9rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/desktop-1-bg-ajh.png');
+}
+.card-1-D6o .desktop-1-RyZ .auto-group-trxx-EJj {
+  margin: 0rem 6.4rem 10.6rem 0rem;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.card-1-D6o .desktop-1-RyZ .auto-group-trxx-EJj .auto-group-5klk-vBZ {
+  margin: 0rem 99.2rem 2.3rem 0rem;
+  width: 3.9rem;
+  height: 2.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card-1-D6o .desktop-1-RyZ .auto-group-trxx-EJj .auto-group-bzhm-pGw {
+  margin-right: 1.2rem;
+  width: 20rem;
+  height: 100%;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #dba8f3;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.card-1-D6o .desktop-1-RyZ .auto-group-trxx-EJj .auto-group-kwsv-pgF {
+  width: 20rem;
+  height: 100%;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.21;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Irish Grover, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #dba8f3;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.card-1-D6o .desktop-1-RyZ .mind-body-wellness-challanges-Go9 {
+  margin: 0rem 3.3rem 4.3rem 0rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card-1-D6o .desktop-1-RyZ .monthly-challanges-promoting-holistic-wellbeing-through-physical-mental-activities-6nB {
+  margin: 0rem 0.6rem 7.5rem 0rem;
+  max-width: 102.2rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ab11f3;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.card-1-D6o .desktop-1-RyZ .image-1-9VZ {
+  margin-right: 3.9rem;
+  width: 91.4rem;
+  height: 40.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

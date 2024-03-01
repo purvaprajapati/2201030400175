@@ -1,0 +1,529 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.card12-o4T {
+  width: 100%;
+  height: 102.4rem;
+}
+.card12-o4T .desktop-1-MLs {
+  box-sizing: border-box;
+  padding: 11.5rem 50.5rem 11.6rem 50.5rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #d9d9d9;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo {
+  box-sizing: border-box;
+  padding: 0rem 1.9rem 2.5rem 1.9rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e5e5e5;
+  border-radius: 5rem;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .auto-group-7bbd-bFD {
+  margin: 0rem 8.9rem 1.7rem 4.8rem;
+  width: calc(100% - 13.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .auto-group-7bbd-bFD .ellipse-1-7zF {
+  margin-right: 2.4rem;
+  width: 3.7rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .auto-group-7bbd-bFD .mind-body-wellness-DA7 {
+  margin-top: 0.1rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.025;
+  color: #ab11f3;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-79-icf {
+  margin-bottom: 3.3rem;
+  box-sizing: border-box;
+  padding: 2.5rem 2.412rem 1rem 2.412rem;
+  width: 100%;
+  height: 15.1rem;
+  background-color: #fdf3e6;
+  border-radius: 2rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group-1Sf.png');
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-79-icf .peer-group-meetup-SHm {
+  width: 20.7rem;
+  height: 100%;
+  row-gap: 0.6rem;
+  display: flex;
+  flex-direction: column;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-79-icf .peer-group-meetup-SHm .upcoming-session-m59 {
+  font-size: 2.2rem;
+  font-weight: 800;
+  line-height: 1.025;
+  color: #573926;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-79-icf .peer-group-meetup-SHm .sahana-v-msc-in-clinical-psychology-67R {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #573926;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-79-icf .peer-group-meetup-SHm .pm-8-30-pm-nF9 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #573926;
+  font-family: Rubik, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-79-icf .peer-group-meetup-SHm .watch-now-tZ5 {
+  margin-right: 6.9rem;
+  box-sizing: border-box;
+  padding: 0.388rem 4.4rem 0.312rem 0rem;
+  width: calc(100% - 6.9rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-79-icf .peer-group-meetup-SHm .watch-now-tZ5 .join-now-1No {
+  margin-right: 0.6rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  color: #fe8235;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-79-icf .peer-group-meetup-SHm .watch-now-tZ5 .group-LAB {
+  margin-bottom: 0.4rem;
+  width: 1.4rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT {
+  margin: 0rem 0.4rem 3.253rem 0rem;
+  width: 38.8rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .how-are-you-feeling-today--kDu {
+  margin-bottom: 1.9rem;
+  max-width: 21rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.025;
+  color: #371b34;
+  font-family: Epilogue, 'Source Sans Pro';
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj {
+  width: 100%;
+  height: 8.4465rem;
+  display: flex;
+  align-items: center;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .happy-ohy {
+  margin-right: 2.3756rem;
+  width: 5.8595rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .happy-ohy .auto-group-r2r3-kdD {
+  margin-bottom: 0.9403rem;
+  box-sizing: border-box;
+  padding: 1.446rem 1.312rem 1.442rem 1.263rem;
+  width: 100%;
+  background-color: #ef5da8;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .happy-ohy .auto-group-r2r3-kdD .happy-HNF {
+  width: 3.2843rem;
+  height: 3.318rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .happy-ohy .happy-o5h {
+  margin-left: 0.0401rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.025;
+  color: #828282;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .calm-7MH {
+  margin-right: 2.3756rem;
+  width: 5.8595rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .calm-7MH .auto-group-8wco-FyH {
+  margin-bottom: 0.9403rem;
+  box-sizing: border-box;
+  padding: 0.767rem 1.198rem 0.767rem 1.343rem;
+  width: 100%;
+  height: 6.2063rem;
+  background-color: #aeaff7;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .calm-7MH .auto-group-8wco-FyH .calm-icon-mwd {
+  margin-bottom: 1.4077rem;
+  width: 3.319rem;
+  height: 3.2636rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .calm-7MH .calm-Vsd {
+  margin-left: 0.0685rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.025;
+  color: #828282;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .relax-mood-DHq {
+  margin-right: 2.3756rem;
+  width: 5.8595rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .relax-mood-DHq .auto-group-skn3-j1H {
+  margin-bottom: 0.9403rem;
+  box-sizing: border-box;
+  padding: 0.946rem 1.259rem 0.946rem 1.285rem;
+  width: 100%;
+  height: 6.2063rem;
+  background-color: #a0e3e2;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .relax-mood-DHq .auto-group-skn3-j1H .relax-2m5 {
+  width: 3.3155rem;
+  height: 3.0334rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .relax-mood-DHq .manic-Zm1 {
+  margin-right: 0.0553rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.025;
+  color: #828282;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .focus-mood-6F9 {
+  margin-right: 2.3756rem;
+  width: 5.8595rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .focus-mood-6F9 .auto-group-h5pk-SK1 {
+  margin-bottom: 0.9403rem;
+  box-sizing: border-box;
+  padding: 1.531rem 1.31rem 1.442rem 1.349rem;
+  width: 100%;
+  background-color: #f09e54;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .focus-mood-6F9 .auto-group-h5pk-SK1 .fa6-solid-face-angry-xYF {
+  width: 3.2rem;
+  height: 3.233rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .focus-mood-6F9 .angry-sv7 {
+  margin-right: 0.0482rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.025;
+  color: #828282;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .focus-mood-1Fd {
+  width: 5.8595rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .focus-mood-1Fd .auto-group-p1hy-M4b {
+  margin-bottom: 0.9403rem;
+  box-sizing: border-box;
+  padding: 1.531rem 1.312rem 1.442rem 1.347rem;
+  width: 100%;
+  background-color: #c2f2a5;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .focus-mood-1Fd .auto-group-p1hy-M4b .fa6-solid-face-angry-sod {
+  width: 3.2rem;
+  height: 3.233rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-73-opT .group-81-rnj .focus-mood-1Fd .sad-bzX {
+  margin-right: 0.0659rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.025;
+  color: #828282;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH {
+  margin: 0rem 1.6rem 5rem 0rem;
+  width: 37.6rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-96-exo {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 6.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-96-exo .group-77-QSB {
+  margin-right: 1.7354rem;
+  box-sizing: border-box;
+  padding: 1.5rem 6.416rem 1.5rem 2.133rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f1;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-96-exo .group-77-QSB .ion-journal-Xmh {
+  margin: 0rem 2.133rem 0.133rem 0rem;
+  width: 1.7498rem;
+  height: 1.8667rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-96-exo .group-77-QSB .journal-T9Z {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.2857142857;
+  color: #573926;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-96-exo .group-76-kPZ {
+  box-sizing: border-box;
+  padding: 1.5rem 6.338rem 1.5rem 2.545rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f1;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-96-exo .group-76-kPZ .ic-round-article-sDH {
+  margin-right: 1.9668rem;
+  width: 2.0825rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-96-exo .group-76-kPZ .library-14b {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.2857142857;
+  color: #573926;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-77-izb {
+  margin-right: 0rem;
+  width: 37.4843rem;
+  height: 7.9rem;
+  border: solid 0.1rem #f4f4f4;
+  box-sizing: border-box;
+  background-color: #f8f6f6;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-77-izb .mask-group-4oZ {
+  box-sizing: border-box;
+  padding: 2.1rem 1.388rem 1.8rem 1.735rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1.6rem;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-77-izb .mask-group-4oZ .it-is-better-to-conquer-yourself-than-to-win-a-thousand-battles-1D1 {
+  margin-right: 2.084rem;
+  max-width: 29.5rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.4285714286;
+  letter-spacing: -0.014rem;
+  color: #6f6f6f;
+  font-family: Epilogue, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-82-XdH .group-77-izb .mask-group-4oZ .fa-quote-left-U6b {
+  margin-bottom: 0.2rem;
+  width: 2.7766rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-81-xnT {
+  margin: 0rem 0.4rem 0rem 0.1rem;
+  box-sizing: border-box;
+  padding: 2.618rem 3.334rem 3.082rem 2.382rem;
+  width: calc(100% - 0.5rem);
+  height: 17.1rem;
+  display: flex;
+  align-items: center;
+  background-color: #53a06e;
+  border-radius: 2rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group.png');
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-81-xnT .peer-group-meetup-44o {
+  margin-right: 9.1582rem;
+  width: 14.3rem;
+  height: 100%;
+  row-gap: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-81-xnT .peer-group-meetup-44o .plan-expired-BQK {
+  font-size: 2.2rem;
+  font-weight: 800;
+  line-height: 1.025;
+  color: #ffffff;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-81-xnT .peer-group-meetup-44o .get-back-chat-access-and-session-credits-6GP {
+  max-width: 14.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Rubik, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-81-xnT .peer-group-meetup-44o .watch-now-ogb {
+  margin-right: 0.5rem;
+  box-sizing: border-box;
+  padding: 0.388rem 4.1rem 0.312rem 0rem;
+  width: calc(100% - 0.5rem);
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-81-xnT .peer-group-meetup-44o .watch-now-ogb .buy-more-vFR {
+  margin-right: 0.9333rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 2;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Epilogue, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-81-xnT .peer-group-meetup-44o .watch-now-ogb .eva-arrow-back-fill-3L3 {
+  margin-bottom: 0.3334rem;
+  width: 1.0667rem;
+  height: 0.9334rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card12-o4T .desktop-1-MLs .iphone-13-mini-1-tLo .group-81-xnT .meditation-icon-kkF {
+  margin-top: 0.366rem;
+  width: 9.5262rem;
+  height: 7.0368rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

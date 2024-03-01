@@ -1,0 +1,70 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 147.1rem;
+}.card-9-pjH {
+  width: 100%;
+  height: 94.7rem;
+  position: relative;
+}
+.card-9-pjH .desktop-2-B43 {
+  width: 70.9465rem;
+  height: 94.7rem;
+  position: absolute;
+  left: 76.1535rem;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/desktop-2-bg.png');
+}
+.card-9-pjH .desktop-1-TnF {
+  width: 76.1535rem;
+  height: 94.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/desktop-1-bg-1rw.png');
+}
+.card-9-pjH .mind-body-wellness-AwZ {
+  width: 31.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 63rem;
+  top: 0.7rem;
+  font-size: 3.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #970fd7;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-9-pjH .ellipse-3-UBZ {
+  width: 5.3rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 55rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}

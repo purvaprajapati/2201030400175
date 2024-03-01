@@ -1,0 +1,415 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.card-11-439 {
+  width: 100%;
+  height: 102.4rem;
+}
+.card-11-439 .desktop-1-zxP {
+  box-sizing: border-box;
+  padding: 1.7rem 47.2rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: #b4b1b1;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #fffdfd;
+  border-radius: 5rem;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD {
+  box-sizing: border-box;
+  padding: 1.068rem 0.413rem 0.085rem 0.981rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-mahu-1sV {
+  margin: 0rem 0rem 0.031rem 0.159rem;
+  width: 48.0473rem;
+  height: 12.8315rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-mahu-1sV .vector-2-vzT {
+  width: 19.5314rem;
+  height: 1.0359rem;
+  position: absolute;
+  left: 17.9435rem;
+  top: 3.4934rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-mahu-1sV .vector-3-fSF {
+  width: 23.9776rem;
+  height: 1.133rem;
+  position: absolute;
+  left: 0;
+  top: 10.3701rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-mahu-1sV .vector-4-CSB {
+  width: 30.7498rem;
+  height: 1.6997rem;
+  position: absolute;
+  left: 0.2147rem;
+  top: 10.6134rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-mahu-1sV .vector-5-jBD {
+  width: 15.244rem;
+  height: 0.3644rem;
+  position: absolute;
+  left: 32.076rem;
+  top: 11.433rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-mahu-1sV .vector-6-sHR {
+  width: 48.0473rem;
+  height: 10.3215rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-mahu-1sV .payment-details-1eX {
+  width: 38.8rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 6.26rem;
+  top: 1.6315rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-mahu-1sV .rectangle-8-H6F {
+  width: 9.9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 10.26rem;
+  top: 8.9315rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-8-bg.png');
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-mahu-1sV .rectangle-9-zFZ {
+  width: 10.7rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 25.16rem;
+  top: 8.9315rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-9-bg.png');
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-zdrh-527 {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-zdrh-527 .vector-11-2CF {
+  margin: 0rem 8.734rem 0.233rem 0rem;
+  width: 3.1758rem;
+  height: 0.3176rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-zdrh-527 .vector-13-WNK {
+  margin-right: 12.1413rem;
+  width: 3.6522rem;
+  height: 0.5505rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-bzsb-gqD .auto-group-zdrh-527 .vector-12-dhq {
+  margin-top: 0.0628rem;
+  width: 2.6264rem;
+  height: 0.2971rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-autb-yFu {
+  width: 49.7505rem;
+  height: 6.9342rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-autb-yFu .vector-7-ufM {
+  width: 15.9117rem;
+  height: 2.2231rem;
+  position: absolute;
+  left: 0.2749rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-autb-yFu .vector-8-FUK {
+  width: 18.2544rem;
+  height: 1.2954rem;
+  position: absolute;
+  left: 29.571rem;
+  top: 0.2925rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-autb-yFu .vector-9-P4j {
+  width: 14.4501rem;
+  height: 4.605rem;
+  position: absolute;
+  left: 34.4868rem;
+  top: 0.4764rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-autb-yFu .vector-10-XAw {
+  width: 3.1131rem;
+  height: 0.4764rem;
+  position: absolute;
+  left: 12.1599rem;
+  top: 0.1588rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-autb-yFu .email-4As {
+  width: 8.1rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 4.2005rem;
+  top: 3.0342rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-autb-yFu .line-2-MQs {
+  width: 49.7505rem;
+  height: 1.0173rem;
+  position: absolute;
+  left: 0;
+  top: 0.0756rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq {
+  box-sizing: border-box;
+  padding: 1rem 4.2rem 12.2rem 3.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-xnbh-1EX {
+  margin: 0rem 0.3rem 3rem 0rem;
+  width: 41.2rem;
+  height: 5.4rem;
+  font-size: 2.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .choose-your-plan-TMR {
+  margin: 0rem 15rem 1.1rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-bwtp-Mhh {
+  margin: 0rem 0.3rem 2.8rem 0rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.9rem;
+  width: 41.2rem;
+  font-size: 2.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-w4q7-EWb {
+  margin: 0rem 0.3rem 4.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.9rem 0.9rem 1.9rem;
+  width: 41.2rem;
+  font-size: 2.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .creditcard-or-debitcard-HUs {
+  margin: 0rem 5.3rem 1.5rem 0rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-gbq3-nwR {
+  margin: 0rem 0rem 9.7rem 0.3rem;
+  width: 41.2rem;
+  height: 12.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-gbq3-nwR .rectangle-3-v23 {
+  width: 41.2rem;
+  height: 5.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #d9d9d9;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-gbq3-nwR .card-number-eyd {
+  width: 14.5rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-gbq3-nwR .rectangle-6-xUX {
+  width: 17.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 22.1rem;
+  top: 7.3rem;
+  background-color: #d9d9d9;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-gbq3-nwR .cvc-hBD {
+  width: 5rem;
+  height: 3rem;
+  position: absolute;
+  left: 23.7rem;
+  top: 8.4rem;
+  font-size: 2.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-gbq3-nwR .item--QrK {
+  width: 3.9rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 33.4rem;
+  top: 0rem;
+  font-size: 6.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-gbq3-nwR .rectangle-5-u2P {
+  width: 17.8rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 0;
+  top: 7.3rem;
+  background-color: #d9d9d9;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-gbq3-nwR .mm-yy-dj5 {
+  width: 8.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 8.2rem;
+  font-size: 2.4rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-11-439 .desktop-1-zxP .iphone-13-mini-1-wcj .auto-group-hopd-hDq .auto-group-esct-hU3 {
+  margin-right: 0.3rem;
+  width: 41.2rem;
+  height: 5.4rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  font-style: italic;
+  text-decoration-line: underline;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8cb18e;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}

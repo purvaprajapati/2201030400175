@@ -1,0 +1,107 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 133.5rem;
+}.card-14-iqM {
+  width: 100%;
+  height: 173rem;
+}
+.card-14-iqM .card-14-sy9 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/card-14-bg.png');
+}
+.card-14-iqM .card-14-sy9 .rectangle-38-dBd {
+  width: 84.2rem;
+  height: 17.6rem;
+  position: absolute;
+  left: 9.6rem;
+  top: 149.5rem;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-38-bg.png');
+}
+.card-14-iqM .card-14-sy9 .l-KKM {
+  width: 7.7rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 80.1rem;
+  top: 151.4rem;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.384rem;
+  font-style: italic;
+  text-decoration-line: underline;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-14-iqM .card-14-sy9 .t-zgP {
+  width: 8.9rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 56.2rem;
+  top: 156rem;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.384rem;
+  font-style: italic;
+  text-decoration-line: underline;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-14-iqM .card-14-sy9 .i-HvP {
+  width: 4rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 37.15rem;
+  top: 151.6rem;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.384rem;
+  font-style: italic;
+  text-decoration-line: underline;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.card-14-iqM .card-14-sy9 .f-Ngw {
+  width: 5.3rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 16.4rem;
+  top: 150.5rem;
+  text-align: center;
+  font-size: 12.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  letter-spacing: 0.384rem;
+  font-style: italic;
+  text-decoration-line: underline;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
